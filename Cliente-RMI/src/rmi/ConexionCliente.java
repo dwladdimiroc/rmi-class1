@@ -5,6 +5,12 @@ import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 
+/**
+ *
+ * @author Daniel Wladdimiro Cottet
+ * @title Taller de sistemas distribuidos - Clase 1
+ */
+
 public class ConexionCliente {
 
     private Registry registry;  //Registro de la conexión del usuario con el servidor

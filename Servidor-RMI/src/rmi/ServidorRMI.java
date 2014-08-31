@@ -15,6 +15,7 @@ import static rmi.Implementacion.logger;
  * @author Daniel Wladdimiro Cottet
  * @title Taller de sistemas distribuidos - Clase 1
  */
+
 public class ServidorRMI {
 
     private Registry registro;

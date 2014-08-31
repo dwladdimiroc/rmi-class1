@@ -12,6 +12,7 @@ import rmi.ServidorRMI;
  * @author Daniel Wladdimiro Cottet
  * @title Taller de sistemas distribuidos - Clase 1
  */
+
 public class Servidor {
 
     public static ServidorRMI servidor;

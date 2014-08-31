@@ -10,6 +10,7 @@ import rmi_interface.Interface;
  * @author Daniel Wladdimiro Cottet
  * @title Taller de sistemas distribuidos - Clase 1
  */
+
 public class Cliente {
 
     public static int Puerto = 2014;                                 //Número del puerto que está alojado el servidor
