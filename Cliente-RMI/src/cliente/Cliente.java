@@ -67,7 +67,7 @@ public class Cliente {
             }
 
         } catch (Exception e) {
-            System.out.println("Ha ocurrido un error");
+            System.out.println("Ha ocurrido un error...");
         }
 
         System.exit(0);
